@@ -1,0 +1,83 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "FA4F9DCA-57FE-4BBE-8E55-B552E3C7EC6D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 112,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 1,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Bars/Navigation/Navigation Bar (Large Title) - 1 Action",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "625F6306-E4CC-4D6B-9E2C-F15C5164F0DD",
+      "overrideName": "64061C5E-E47C-4920-93D9-B765F58BFFAF/63764B60-DA82-4F00-AD07-ECEED3CFA585/0AA6E386-D5A3-4889-8221-2D6C72CE0F14_stringValue",
+      "value": "AT&T"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B8287784-E21F-46C9-A11B-763F99E3B6F2",
+      "overrideName": "148F73DC-B74A-4445-B709-7C5293F0FEE1/E4BAA223-5D3E-4137-BE6A-31E9F4C6A86E_stringValue",
+      "value": "App Name"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C3782862-8BAB-4E02-A938-17CE95D9A507",
+      "overrideName": "D03A97F9-B82D-42F9-8200-A9559D2E9A5B_stringValue",
+      "value": "Settings"
+    }
+  ],
+  "overrides": {
+    "148F73DC-B74A-4445-B709-7C5293F0FEE1": {
+      "E4BAA223-5D3E-4137-BE6A-31E9F4C6A86E": "App Name"
+    },
+    "64061C5E-E47C-4920-93D9-B765F58BFFAF": {
+      "63764B60-DA82-4F00-AD07-ECEED3CFA585": {
+        "0AA6E386-D5A3-4889-8221-2D6C72CE0F14": "AT&T"
+      }
+    },
+    "D03A97F9-B82D-42F9-8200-A9559D2E9A5B": "Settings"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "926EFC78-179C-4F52-9684-188252E9B0DF",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}
