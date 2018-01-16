@@ -39,11 +39,15 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
       "id": "FA4F9DCA-57FE-4BBE-8E55-B552E3C7EC6D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "485E87D1-604C-4A63-B619-7BFBF61B3EAD"
     }
   ],
   "name": "iPhone 8",
